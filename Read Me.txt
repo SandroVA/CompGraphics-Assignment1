@@ -1,0 +1,1 @@
+This is the first of three OpenGL programming assignments. The goal of this assignment was to learn OpenGL and make it so that one cube would rotate around a second cube.
